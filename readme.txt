@@ -5,3 +5,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Greating a new branch is quick and simple.
 add somethings.
+retry some operation.
